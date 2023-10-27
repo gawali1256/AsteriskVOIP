@@ -55,4 +55,4 @@ Step 10: Download MizuDroid on a mobile phone and configure it with user 7002.
 
 Step 11: Check SIP peers again to verify that the server is set up with two users.
 
-It's a good guide for setting up an Asterisk-based VOIP server and connecting SIP softphones. You can use these steps to create a blog or a README file for your GitHub repository to help others set up a similar environment. Make sure to provide additional details and explanations for each step and any specific configuration settings.
+
